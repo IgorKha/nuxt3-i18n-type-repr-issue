@@ -3,4 +3,4 @@
     {{ $t("app.text") }}
   </div>
 </template>
-<script setup lang="ts"></script>
+<script setup lang="js"></script>
